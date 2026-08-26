@@ -1,0 +1,13 @@
+{
+  "minVersion": "0.8",
+  "package": "dev.xyat.kineticftb.ftb.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "kineticftb.mixins.refmap.json",
+  "mixins": [
+    "SubmitTaskMessageMixin"
+  ],
+  "client": [
+    "client.AbstractContainerScreenAccessor",
+    "client.ValidItemsScreenSubmitLimitMixin"
+  ]
+}
