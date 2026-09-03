@@ -80,7 +80,7 @@
   "msg.kineticftb.ftb_item.blacklist_removed": "§a已从物品黑名单移除",
   "label.kineticftb.ftb_item.empty_blacklist": "当前没有被禁用的物品",
   "msg.kineticftb.ftb_item.blacklist_added": "§a已加入物品黑名单",
-  "gui.kineticftb.module.name": "KineticFTB",
+  "gui.kineticftb.module.name": "动力FTB任务增强",
   "gui.kineticftb.module.function": "FTB任务增强",
   "gui.kineticftb.module.tooltip": "增强 FTB 任务交互，包括任务绑定、快捷跳转以及相关配置。"
 }
